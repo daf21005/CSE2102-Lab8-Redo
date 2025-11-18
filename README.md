@@ -40,3 +40,5 @@ npm test
 npm test -- --watchAll=false
 # both commands work, I just used the bottom one to catch the false
 ```
+
+David Flores
