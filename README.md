@@ -37,5 +37,3 @@ npm start
 # Run the test cases
 npm test -- --watchAll=false
 ```
-
-David Flores
