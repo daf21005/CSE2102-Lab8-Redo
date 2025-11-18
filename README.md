@@ -24,21 +24,18 @@ If the user want to try again they can refresh the page.
 
 ### Important Commands:
 ```bash
+# First, navigate to the simple_quiz folder
+cd simple_quiz
+
 # Installing all dependicies 
 npm install
-```
 
-```bash
 # Run the program (which will open the quiz at a tab)
 # Press Ctrl+C or Command+C to stop the server
 npm start
-```
 
-```bash
 # Run the test cases
-npm test
 npm test -- --watchAll=false
-# both commands work, I just used the bottom one to catch the false
 ```
 
 David Flores
